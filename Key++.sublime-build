@@ -1,0 +1,6 @@
+{
+    "cmd": ["/usr/local/bin/keyplusplus/bin/🔑++", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "encoding": "Unicode",
+}

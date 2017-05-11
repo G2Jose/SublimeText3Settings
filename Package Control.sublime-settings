@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Babel",
+		"Color Highlighter",
+		"Colorsublime",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"ESLint",
+		"GitGutter",
+		"Markdown Preview",
+		"Material Theme",
+		"Origami",
+		"Package Control",
+		"Seti_UI",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Sublimerge 3"
+	]
+}

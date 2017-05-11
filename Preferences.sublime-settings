@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"folder_exclude_patterns":
+	[
+		"node_modules"
+	],
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"mdpopups.use_sublime_highlighter": true,
+	"show_definitions": true,
+	"theme": "Material-Theme.sublime-theme"
+}

@@ -1,0 +1,5 @@
+{
+  "cmd": ["/usr/local/bin/babel-node $file"],
+  "shell": true,
+  "selector": "*.js"
+}
