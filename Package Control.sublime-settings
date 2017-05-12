@@ -21,6 +21,7 @@
 		"sublimelint",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-shellcheck",
 		"Sublimerge 3"
 	]
 }
